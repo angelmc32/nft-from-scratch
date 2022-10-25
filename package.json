@@ -1,0 +1,24 @@
+{
+  "name": "etb-nft101",
+  "version": "1.0.0",
+  "description": "Learn how to create your own NFT collections from scratch and with OpenZeppelin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelmc32/nft-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelmc32/nft-101/issues"
+  },
+  "homepage": "https://github.com/angelmc32/nft-101#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.0"
+  }
+}
