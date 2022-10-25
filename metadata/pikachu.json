@@ -1,0 +1,37 @@
+{
+  "name": "Pikachu",
+  "description": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
+  "image": "https://ipfs.io/ipfs/QmTVKPvsHbJ61veohNMPZj4dgBCyiec2xrwrCpxoyf4FKH",
+  "attributes": [
+    {
+      "trait_type": "HP",
+      "value": "35",
+      "max_value": "255"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "55",
+      "max_value": "255"
+    },
+    {
+      "trait_type": "Defense",
+      "value": "30",
+      "max_value": "255"
+    },
+    {
+      "trait_type": "Sp. Attack",
+      "value": "50",
+      "max_value": "255"
+    },
+    {
+      "trait_type": "Sp. Defense",
+      "value": "40",
+      "max_value": "255"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "90",
+      "max_value": "255"
+    }
+  ]
+}
