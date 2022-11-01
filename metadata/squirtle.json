@@ -1,21 +1,21 @@
 {
-  "name": "Pikachu",
-  "description": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-  "image": "https://ipfs.io/ipfs/Qmb2hgRy2UZmQy4FKNsr9Ty2VocBWkuYqPpvFpgrErfheV/025_Pikachu.png",
+  "name": "Squirtle",
+  "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+  "image": "https://ipfs.io/ipfs/Qmb2hgRy2UZmQy4FKNsr9Ty2VocBWkuYqPpvFpgrErfheV/007_Squirtle.png",
   "attributes": [
     {
       "trait_type": "HP",
-      "value": "35",
+      "value": "44",
       "max_value": "255"
     },
     {
       "trait_type": "Attack",
-      "value": "55",
+      "value": "48",
       "max_value": "255"
     },
     {
       "trait_type": "Defense",
-      "value": "30",
+      "value": "65",
       "max_value": "255"
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "trait_type": "Sp. Defense",
-      "value": "40",
+      "value": "64",
       "max_value": "255"
     },
     {
       "trait_type": "Speed",
-      "value": "90",
+      "value": "43",
       "max_value": "255"
     }
   ]
